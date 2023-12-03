@@ -1,4 +1,4 @@
-# # Bot - Dead By Daylight Discord Bot (DBD)
+#  Bot - Dead By Daylight Discord Bot (DBD)
 
 A simple Discord bot designed specifically for the game Dead By Daylight (DBD), created to provide information about characters and other related details. This bot utilizes API calls to fetch the latest data and provides information about survivors and killers in Dead By Daylight.
 
